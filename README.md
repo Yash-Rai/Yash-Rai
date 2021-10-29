@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yash Rai
-- 🎓 CSE Undergraduate at Maulana Azad National Institute of Technology,Bhopal
+- 🎓 CSE Undergraduate at MANIT Bhopal
 - 💻 Currently learning Java and Data Structures
 - 🌱 I'm an Enthusiast at Competitive programming on popular platforms Codechef Codeforces
 - 💞️ I’m looking to collaborate on coding workshops and quests
