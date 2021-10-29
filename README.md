@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Yash-Rai
-- 👀 I’m interested in coding projects,hacking and new tech.
-- 🌱 I’m currently learning C++, Python.
+- 👋 Hi, I’m Yash Rai
+- 🎓 CSE Undergraduate at Maulana Azad National Institute of Technology,Bhopal
+- 💻 Currently learning Java and Data Structures
+- 🌱 I'm an Enthusiast at Competitive programming on popular platforms Codechef Codeforces
 - 💞️ I’m looking to collaborate on coding workshops and quests
-- 📫 How to reach me via mail id
-                     (raiyash56@gmail.com)
+- 📫 How to reach me:raiyash56@gmail.com
+                     
 
 <!---
 Yash-Rai/Yash-Rai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
