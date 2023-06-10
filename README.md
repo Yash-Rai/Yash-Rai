@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ## About Me :
 
 - 😄 Pronouns: He/His
-- 🎓 Studying Computer Science Engineering at MANIT Bhopal.
-- 🌱 I'm an Enthusiast at Competitive programming on popular platforms Codechef Codeforces.
-- 👯 Looking to collaborate on MERN stack Projects
+- 🎓 Studying Computer Science and Engineering at MANIT Bhopal.
+- 🌱 I'm an Enthusiast at Competitive programming on popular platforms Codechef and Codeforces.
+- 👯 Looking to collaborate on MERN stack Projects.
 - ⚡ Fun fact: Smart enough to know that what i know is very little in compare to the limitless knowledge available.
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yash-Rai&label=Profile%20views&color=0e75b6&style=flat" alt="Yash-Rai" /> </p>
