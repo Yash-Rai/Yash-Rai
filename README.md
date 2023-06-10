@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![logo](https://github.com/Yash-Rai/Yash-Rai/blob/main/Github%20Banner.png)
+![logo](https://github.com/Yash-Rai/Yash-Rai/blob/main/Github%20Banner2.png)
 <h1 align="center">Hi 👋, I'm Yash Rai</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
